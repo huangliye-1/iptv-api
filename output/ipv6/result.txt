@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-29 18:39:27,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be$订阅源
+2025-10-01 18:39:54,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be$订阅源
@@ -35,8 +35,8 @@ CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e
 CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
-CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
+CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
 CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03$订阅源
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
@@ -73,11 +73,11 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a$订阅源
-东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
 东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
-甘肃卫视,https://cc06.tv12.xyz/44.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+甘肃卫视,https://cc06.tv12.xyz/44.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://cc06.tv12.xyz/46.m3u8$订阅源
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
@@ -137,7 +137,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$订阅源
-CHC家庭影院,https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=96653ba44c4403b1bb7de587c539e6861b3a58726df4a0dc3857f7267f85950ff7afe8b2786fbd2ac2cf4dac4e7c05e77b8ed3986bc9c3ab9e62fed4ec527924cf1c81957481f68bdd780f9489$订阅源
+CHC家庭影院,https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$订阅源
 CHC动作电影,https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c3057e88de7982b7db97b099ca8e845404f509eecfda842afeebb6e0f56b395a8276019f7ed722017147b1a70e9dc959dcfed100facacec159a601a865605665771c5c59de2823df6b56$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
